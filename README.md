@@ -1,4 +1,4 @@
-# monitorGPON
+# monitor GPON [ shell script]
 
 [ SISTEMA DE MONITORACAO OLT GPON ]
 
