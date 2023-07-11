@@ -39,11 +39,6 @@ TB_OLT_PLACA="tb_olt_placas";
 TB_OLT_IF="tb_olt_uplink";
 
 
-# Acesso LDAP
-
-user="N5929639";
-pass="!Drkcux9c07";
-
 ##LISTA DE OIDS
 
 
